@@ -1,0 +1,144 @@
+div#overall {
+  padding: 0;
+  width: 860px;
+  background-color: #FFFFFF;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+}
+
+div#header {
+  width: 860px;
+  height: 126px;
+  background-image: url("images/header.png");
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+div#under_header_left {
+  width: 360px;
+  height: 80px;
+  background-image: url("images/under_header_left.png");
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 126px;
+}
+
+div#under_header_right {
+  width: 85px;
+  height: 80px;
+  background-image: url("images/under_header_right.png");
+  position: absolute;
+  margin-left: 775px;
+  margin-top: 126px;
+}
+
+div#left {
+  width: 112px;
+  height: 344px;
+  background-image: url("images/left.png");
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 206px;
+}
+
+div#left_border {
+  width: 9px;
+  height: 138px;
+  background-image: url("images/left_border.png");
+  position: absolute;
+  margin-left: 297px;
+  margin-top: 206px;
+}
+
+div#right_border {
+  width: 30px;
+  height: 134px;
+  background-image: url("images/right_border.png");
+  position: absolute;
+  margin-left: 830px;
+  margin-top: 206px;
+}
+
+div#above_footer_left {
+  width: 100px;
+  height: 86px;
+  background-image: url("images/above_footer_left.png");
+  position: absolute;
+  margin-left: 297px;
+  margin-top: 340px;
+}
+
+div#above_footer_right {
+  width: 122px;
+  height: 86px;
+  background-image: url("images/above_footer_right.png");
+  position: absolute;
+  margin-left: 738px;
+  margin-top: 340px;  
+}
+
+div#footer {
+  width: 860px;
+  height: 144px;
+  background-image: url("images/footer.png");
+  position: absolute;
+  margin-left: 0px;
+  margin-top: 426px;  
+}
+
+div#content_area {
+  width: 500px;
+  height: 278px;
+  position: absolute;
+  margin-left: 318px;
+  margin-top: 132px;
+  font-family: Arial, sans-serif;
+  font-size: 10pt;
+}
+
+div#left_content_area {
+  width: 240px !important;
+  width: 230px;
+  float: left;
+  padding: 5px;
+}
+
+div#right_content_area {
+  width: 240px;
+  margin-left: 250px !important;
+  margin-left: 230px;
+  padding: 5px;
+}
+
+div#copyright {
+  clear: both;
+  font-size: 10px;
+  text-align: center;
+  margin-top: 3px !important;
+  margin-top: 23px;
+}
+
+h1 {
+  font-size: 36px;
+  font-style: italic;
+  font-color: #000000;
+  padding: 0;
+  margin: 0;
+  padding-left: 50px;
+}
+
+div#navigation {
+  width: 185px;
+  height: 220px;
+  background-image: url("images/navigation.png");
+  position: absolute;
+  margin-left: 112px;
+  margin-top: 206px;
+  padding-top: 20px;
+}
+
+img {
+  border: 0;
+}
