@@ -1,0 +1,1 @@
+Source code and other assets in this repository are provided for demonstration purposes only. All files in this repository are © 2013 Chris Alley.
